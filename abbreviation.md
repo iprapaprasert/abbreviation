@@ -8,6 +8,7 @@
 | amount | amt |
 | approval | appro |
 | approximate; approximately | approx |
+| associate; associated; association | assoc |
 | assistant, assorted | asst |
 | average | avg |
 | backgroud, bag, beige, being | bg |
@@ -90,7 +91,8 @@
 | revenue, reverse, review; reviewed, revised; revision, revolution | rev |
 | registered physical therapist | rpt |
 | scene, science, silicet | sc |
-| secant, second; secondary, secretary, section | sec |
+| secant, second; secondary, secretary | sec |
+| section; sectional | sect |
 | serial, series | ser |
 | service | ser, serv, svc |
 | station | sta |
