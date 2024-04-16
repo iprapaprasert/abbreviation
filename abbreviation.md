@@ -21,12 +21,16 @@
 | chain, chamption, chaplain, chapter, chief, child; children, chronic, church | ch |
 | change, charge | chg |
 | citation, citizen | cit |
+| centiliter, claiming, class, clause, close, closet, cloth | cl |
+| centimeter, cumulative | cm |
 | colonial, colony, color; colored, column, counsel | col |
 | comedy; comic, comma, commercial organization | com |
 | command; commandant; commander; commanding, commentary, commerce; commercial, commision; commissioned; commissioner, commitee, common; commoner, commonwealth, commune, communication, communist, community | comm |
 | comparative; copmpare, compensation; compensatory, compiled; compiler, composition; compositor, compound, comprehensive, comptroller | comp |
 | compare, coupon | cp |
 | currency, current | cur |
+| diameter | dia |
+| distance, district | dist |
 | divided, dividend, division, divorced | div |
 | domestic, dominant, dominion | dom |
 | each | ea |
@@ -50,6 +54,7 @@
 | governor, governmental institution | gov |
 | government | gov, govt |
 | grade, grain, gram, gravity, gross | gr |
+| here, hour | hr |
 | imperative, imperfect, imperial, import; imported | imp |
 | inch, inlet | in |
 | incomplete, incorporated, increase | inc |
@@ -67,9 +72,11 @@
 | minim, minimum, mining, minister, minor, minute; minutes | min |
 | month | mo |
 | monetary | mon |
+| mount; mountain | mt |
 | north; northern, number | no |
 | numeral | num |
-| pages, per person, by proxy, pianissimo |pp |
+| organic, organiztion; organized | org |
+| pages, per person, by proxy, pianissimo | pp |
 | pair, price, printed | pr |
 | payment | pmt |
 | percent; percentage | pct |
@@ -97,6 +104,7 @@
 | service | ser, serv, svc |
 | station | sta |
 | statute | stat |
+| standard | std |
 | steamer | str |
 | soluble | sol |
 | solution | soln |
