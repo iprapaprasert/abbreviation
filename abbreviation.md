@@ -1,11 +1,16 @@
 # List of Abbreviations
 | Entry | Abbreviation |
 | ----- | ------------ |
+| abridged; abridgment | abr |
 | accusative | acc |
 | account; accountant | acct |
+| adjective, adjunct, adjustment, adjutant | adj |
 | administration; administrative | admin |
+| adverb, against, advertisement; advertising, advisory | adv |
+| affix | af |
 | agricultural; agriculture | agr, agric |
 | amount | amt |
+| aorist | aor |
 | approval | appro |
 | approximate; approximately | approx |
 | associate; associated; association | assoc |
@@ -26,10 +31,14 @@
 | colonial, colony, color; colored, column, counsel | col |
 | comedy; comic, comma, commercial organization | com |
 | command; commandant; commander; commanding, commentary, commerce; commercial, commision; commissioned; commissioner, commitee, common; commoner, commonwealth, commune, communication, communist, community | comm |
-| comparative; copmpare, compensation; compensatory, compiled; compiler, composition; compositor, compound, comprehensive, comptroller | comp |
+| company, country | co |
+| comparative; compare, compensation; compensatory, compiled; compiler, composition; compositor, compound, comprehensive, comptroller | comp |
 | compare, coupon | cp |
+| cubic centimeter, carbon copy | cc |
 | currency, current | cur |
+| demonstrative | dem |
 | diameter | dia |
+| dimension, diminished, diminuendo, diminutive | dim |
 | distance, district | dist |
 | divided, dividend, division, divorced | div |
 | domestic, dominant, dominion | dom |
@@ -54,6 +63,7 @@
 | governor, governmental institution | gov |
 | government | gov, govt |
 | grade, grain, gram, gravity, gross | gr |
+| hectare | ha |
 | here, hour | hr |
 | imperative, imperfect, imperial, import; imported | imp |
 | inch, inlet | in |
@@ -67,7 +77,12 @@
 | intelligence, intercept, interest, interim, interior, interjection, intermediate, internal, international, interpreter, intersection, interval, interview, intransitive | int |
 | international | int, intl, intnl |
 | inventor, inventory, invoice | inv |
+| keg, kilogram, king | kg |
+| kilograms per second | kgps |
+| kiloliter | kl |
 | pound | lb |
+| measure | meas |
+| measures, millimeter | mm |
 | mile; miles, mill | mi |
 | minim, minimum, mining, minister, minor, minute; minutes | min |
 | month | mo |
@@ -85,12 +100,14 @@
 | personal, personnel | pers |
 | place, plate | pl |
 | population | pop |
+| previous; previously | prev | 
 | proceedings | proc |
 | program, progressive | prog |
 | promontory | prom |
 | picosecond | ps |
 | principal, principle | prin |
 | product, production | prod |
+| psychology | psych
 | range | ra |
 | received, receipt, record;; recording, recreation; recreational | rec |
 | region, register; registered; registration, regular | reg |
