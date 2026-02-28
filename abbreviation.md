@@ -10,6 +10,7 @@
 | affix | af |
 | agricultural; agriculture | agr, agric |
 | amount | amt |
+| annals, annual | ann |
 | aorist | aor |
 | approval | appro |
 | approximate; approximately | approx |
@@ -42,6 +43,7 @@
 | demonstrative | dem |
 | diameter | dia |
 | dimension, diminished, diminuendo, diminutive | dim |
+| discharge, discount, distance | dis |
 | distance, district | dist |
 | divided, dividend, division, divorced | div |
 | domestic, dominant, dominion | dom |
@@ -52,6 +54,7 @@
 | educational institution | edu |
 | efficiency | eff |
 | electric, electrical, electricity | elec |
+| elevation | el |
 | emperor; empress | emp |
 | equal, equation | eq |
 | engine, engineer; engineering | eng |
@@ -75,6 +78,7 @@
 | independent, index | ind |
 | individual | indiv |
 | industrial; industry | ind, indus |
+| infantry, infinitive | inf |
 | inches | ins |
 | insurance | insur |
 | intelligence, intercept, interest, interim, interior, interjection, intermediate, internal, international, interpreter, intersection, interval, interview, intransitive | int |
@@ -84,10 +88,12 @@
 | kilograms per second | kgps |
 | kiloliter | kl |
 | pound | lb |
+| license | lic |
 | machine; machinery; machinist | mach |
 | mathematical; mathematician | math
 | measure | meas |
 | measures, millimeter | mm |
+| medicine, medieval, medium | med |
 | mile; miles, mill | mi |
 | minim, minimum, mining, minister, minor, minute; minutes | min |
 | month | mo |
@@ -95,10 +101,12 @@
 | mount; mountain | mt |
 | north; northern, number | no |
 | numeral | num |
+| office; officer; official | off |
 | organic, organiztion; organized | org |
 | pages, per person, by proxy, pianissimo | pp |
 | pair, price, printed | pr |
 | payment | pmt |
+| peninsula | pen |
 | percent; percentage | pct |
 | period | per |
 | person | per, pers |
@@ -108,14 +116,16 @@
 | population | pop |
 | previous; previously | prev | 
 | proceedings | proc |
+| professional | prof |
 | program, progressive | prog |
 | promontory | prom |
 | picosecond | ps |
 | principal, principle | prin |
 | product, production | prod |
 | psychology | psych
+| public, publication, publicity, published; publisher; publishing | pub |
 | range | ra |
-| received, receipt, record;; recording, recreation; recreational | rec |
+| received, receipt, record, recording, recreation; recreational | rec |
 | region, register; registered; registration, regular | reg |
 | report | rept |
 | revenue, reverse, review; reviewed, revised; revision, revolution | rev |
@@ -126,12 +136,15 @@
 | section; sectional | sect |
 | serial, series | ser |
 | service | ser, serv, svc |
+| share | sh
 | station | sta |
 | statute | stat |
 | standard | std |
 | steamer | str |
 | soluble | sol |
 | solution | soln |
+| superior, supra | sup |
+| temporary, in the time of | temp
 | translated; translation; translator, transpose | tr |
 | university | univ |
 | usual | usu |
@@ -140,5 +153,6 @@
 | variable, variation, various | var |
 | work, week | wk |
 | weekly | wkly |
-| year, your | yr |
+| year | an, yr |
 | yearbook | yrbk
+| your | yr |
