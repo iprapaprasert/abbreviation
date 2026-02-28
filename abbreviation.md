@@ -21,20 +21,23 @@
 | by mouth; orally | po |
 | capacity, capital, capitalize; capitalized | cap |
 | captain | cpt |
+| center, circular, commander, cream, creased, credit; creditor, creek, crescendo | cr |
 | centiliter, claiming, class, clause, close, closet, cloth | cl |
+| centimeter, cumulative | cm |
 | circa | ca |
 | chain, chamption, chaplain, chapter, chief, child; children, chronic, church | ch |
 | change, charge | chg |
 | citation, citizen | cit |
-| centiliter, claiming, class, clause, close, closet, cloth | cl |
-| centimeter, cumulative | cm |
 | colonial, colony, color; colored, column, counsel | col |
 | comedy; comic, comma, commercial organization | com |
 | command; commandant; commander; commanding, commentary, commerce; commercial, commision; commissioned; commissioner, commitee, common; commoner, commonwealth, commune, communication, communist, community | comm |
 | company, country | co |
 | comparative; compare, compensation; compensatory, compiled; compiler, composition; compositor, compound, comprehensive, comptroller | comp |
 | compare, coupon | cp |
+| consecrated, conservative, consigned; consignment, consolidated, consonant, constable, constitution, construction, consul, consulting | cons |
+| consolidated, consort, consul, continued | con |
 | cubic centimeter, carbon copy | cc |
+| cumulative | cum |
 | currency, current | cur |
 | demonstrative | dem |
 | diameter | dia |
@@ -81,6 +84,8 @@
 | kilograms per second | kgps |
 | kiloliter | kl |
 | pound | lb |
+| machine; machinery; machinist | mach |
+| mathematical; mathematician | math
 | measure | meas |
 | measures, millimeter | mm |
 | mile; miles, mill | mi |
@@ -98,6 +103,7 @@
 | period | per |
 | person | per, pers |
 | personal, personnel | pers |
+| personal foul, pfennig, picofarad, louder, preferred | pf |
 | place, plate | pl |
 | population | pop |
 | previous; previously | prev | 
@@ -115,6 +121,7 @@
 | revenue, reverse, review; reviewed, revised; revision, revolution | rev |
 | registered physical therapist | rpt |
 | scene, science, silicet | sc |
+| school | sch |
 | secant, second; secondary, secretary | sec |
 | section; sectional | sect |
 | serial, series | ser |
@@ -126,6 +133,8 @@
 | soluble | sol |
 | solution | soln |
 | translated; translation; translator, transpose | tr |
+| university | univ |
+| usual | usu |
 | utility | util |
 | value; valued | val |
 | variable, variation, various | var |
