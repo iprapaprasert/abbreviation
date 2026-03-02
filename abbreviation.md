@@ -37,9 +37,11 @@
 | compare, coupon | cp |
 | consecrated, conservative, consigned; consignment, consolidated, consonant, constable, constitution, construction, consul, consulting | cons |
 | consolidated, consort, consul, continued | con |
+| convention; conventional, convertible, convocation | conv |
 | cubic centimeter, carbon copy | cc |
 | cumulative | cum |
 | currency, current | cur |
+| decreased, declaration; declared, declination, decorated; decorative, decrease, decrescendo | dec
 | demonstrative | dem |
 | diameter | dia |
 | dimension, diminished, diminuendo, diminutive | dim |
@@ -105,6 +107,7 @@
 | organic, organiztion; organized | org |
 | pages, per person, by proxy, pianissimo | pp |
 | pair, price, printed | pr |
+| paragraph | para |
 | payment | pmt |
 | peninsula | pen |
 | percent; percentage | pct |
@@ -126,6 +129,7 @@
 | public, publication, publicity, published; publisher; publishing | pub |
 | range | ra |
 | received, receipt, record, recording, recreation; recreational | rec |
+| reduce; reduction | red |
 | region, register; registered; registration, regular | reg |
 | report | rept |
 | revenue, reverse, review; reviewed, revised; revision, revolution | rev |
@@ -146,6 +150,7 @@
 | superior, supra | sup |
 | temporary, in the time of | temp
 | translated; translation; translator, transpose | tr |
+| transaction, transitive, translated; translation; translator, transmission, transportation, transverse | trans |
 | university | univ |
 | usual | usu |
 | utility | util |
