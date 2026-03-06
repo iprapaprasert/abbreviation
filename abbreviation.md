@@ -132,6 +132,7 @@
 | reduce; reduction | red |
 | region, register; registered; registration, regular | reg |
 | report | rept |
+| research, reserve, reservoir, residence; resident, resolution | res |
 | revenue, reverse, review; reviewed, revised; revision, revolution | rev |
 | registered physical therapist | rpt |
 | scene, science, silicet | sc |
